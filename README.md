@@ -49,7 +49,7 @@
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richmondtorreon&show_icons=true&count_private=true&theme=radical&cache_seconds=1" alt="Richmond's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=regzmound&show_icons=true&count_private=true&theme=radical&cache_seconds=1" alt="Richmond's GitHub Stats" />
 </p>
 
 ---
