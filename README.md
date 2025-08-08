@@ -1,66 +1,50 @@
-# 👋 Hello, I'm Richmond C. Torreon!
+# ​ Hello! I’m **Richmond C. Torreon**
 
-🎓 **Computer Science Student**  
-📍 *Bohol Island State University - Clarin Campus*  
-💡 I’m passionate about building smart, modern systems that solve real-world problems — from web platforms to mobile apps.
-
----
-
-## 🚀 Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</div>
+**Computer Science Student**  
+Bohol Island State University – Clarin Campus  
+Web & Mobile Developer specializing in modern, user-focused digital solutions.
 
 ---
 
-## 🛠️ Projects & Systems I've Built
+##  About Me
 
-- 📚 **BISU Integrated System for Upskilling**  
-  A centralized platform to manage and track upskilling activities for BISU students.
-
-- 🏠 **Web-Based Boarding House Management System**  
-  Designed for boarding house owners to manage tenants, payments, and records online.
-
-- 📱 **Mobile-Based Boarding House Management App**  
-  A mobile companion app for boarding house tenants and owners, built for ease of access.
-
-- 🎫 **Ticketing System**  
-  An internal support system to manage user inquiries, issues, and resolutions efficiently.
-
-- 💊 **Gendrugs Inc. Company Website**  
-  An official web presence for Gendrugs Inc., featuring services, products, and business details.
-
-- 🏫 **School Information Management System**  
-  A web app to manage student records, academic data, and school operations.
-
-- 📍 **School Monitoring System**  
-  Tracks student attendance, activity logs, and academic monitoring in real-time.
+Fueled by a deep curiosity for how technology works, I’m a passionate student developer with a strong foundation in both web and mobile application development. Through academic work and personal projects, I’ve honed my abilities to solve real-world problems with code and design. Each challenge motivates me to learn more and create smarter, more impactful solutions.
 
 ---
 
-## 📈 GitHub Stats
+##  Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Regzmound&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regzmound&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com) *(Add your profile)*
-- 📧 **richmondtorreon@example.com** *(Replace with your real email)*
-- 🌐 *Portfolio coming soon...*
+| Category                | Technologies & Skills                                       |
+|------------------------|-------------------------------------------------------------|
+| **Web Development**     | Next.js, React, Tailwind CSS, Express.js, Node.js, MySQL     |
+| **Mobile App Development** | JavaScript-based mobile frameworks (e.g., React Native)         |
+| **UI / UX Design**       | Responsive design, user-centric interfaces, Tailwind CSS     |
+| **Media & Deployment**   | Cloudinary, Git, GitHub workflows                          |
+| **Full-Stack Capabilities** | Integrating front-end, back-end, and database systems       |
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+##  Projects & Systems I’ve Created
+
+- **BISU Integrated System for Upskilling** – A university-focused platform to manage upskilling programs.
+- **Web & Mobile Boarding House Management System** – Complete solution for tenant management and operations.
+- **Ticketing System** – Efficient internal system for handling support issues.
+- **Gendrugs Inc. Company Website** – Responsive, professional web presence for a company.
+- **School Information Management System** – Platform for managing student and academic data.
+- **School Monitoring System** – Live tracking of attendance and school activities.
+
+---
+
+##  Services I Offer
+
+- **Web Development** – Building robust, responsive web apps.
+- **Mobile App Development** – Creating accessible apps for mobile interaction.
+- **UI / UX Design** – Designing intuitive and aesthetically pleasing interfaces.
+- **Software Engineering & Consulting** – Planning and building custom software solutions tailored to your needs.
+
+---
+
+##  GitHub Highlights
+
+```md
+![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmondtorreon&show_icons=true&count_private=true&cache_seconds=1)
