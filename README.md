@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbanner-design&psig=AOvVaw1wpzv823w9Uf1aifUz2v7x&ust=1754884976167000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDf9I6u_44DFQAAAAAdAAAAABAE" alt="Richmond Torreon Banner" width="100%" />
+</p>
+
 <!-- Header Section -->
 <h1 align="center">✨ Hey there! I’m <span style="color:#f39c12">Richmond C. Torreon</span> ✨</h1>
 <p align="center">
