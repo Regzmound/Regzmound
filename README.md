@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbanner-design&psig=AOvVaw1wpzv823w9Uf1aifUz2v7x&ust=1754884976167000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDf9I6u_44DFQAAAAAdAAAAABAE" alt="Richmond Torreon Banner" width="100%" />
+  <img src="https://github.com/Regzmound/Regzmound/blob/main/9be0257d-6364-4bf5-817e-b4165187e570.jpg" width="100%" />
 </p>
 
 <!-- Header Section -->
