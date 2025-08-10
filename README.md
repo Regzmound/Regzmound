@@ -46,9 +46,10 @@ I turn ideas into products that are **fast, functional, and visually stunning**.
 <!-- GitHub Stats -->
 ## 📊 GitHub Highlights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regzmound&show_icons=true&theme=green_navy" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=regzmound&theme=green_navy" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=regzmound&show_icons=true&bg_color=0D1117&title_color=00FF7F&text_color=FFFFFF&icon_color=00FF7F" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=regzmound&background=0D1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" height="165" />
 </p>
+
 
 
 
