@@ -33,21 +33,6 @@ I turn ideas into products that are **fast, functional, and visually stunning**.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
-
-<!-- Projects -->
-## 📦 Featured Projects  
-
-| Project | Description |
-|---------|-------------|
-| 🎓 **BISU Integrated System for Upskilling** | Platform to manage and track upskilling programs. |
-| 🏠 **Boarding House Management System** | End-to-end solution for tenants and landlords. |
-| 🎫 **Ticketing System** | Internal platform for efficient ticket tracking. |
-| 🌐 **Gendrugs Inc. Website** | Corporate website with CMS integration. |
-| 🏫 **School Information Management System** | Student data, academics, and payment management. |
-| 📶 **School Monitoring System** | Real-time activity & attendance tracking. |
-
----
 
 <!-- Services -->
 ## 🧩 Services I Offer  
