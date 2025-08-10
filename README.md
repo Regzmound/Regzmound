@@ -1,64 +1,78 @@
-<h1 align="center">✨ Hello! I’m <span style="color:#f39c12">Richmond C. Torreon</span> ✨</h1>
-<p align="center"><b>Computer Science Student</b> | Bohol Island State University – Clarin Campus</p>
-<p align="center">Web & Mobile Developer specializing in modern, user-focused digital solutions.</p>
-
----
-
-## 👨‍💻 About Me
-
-🚀 I’m a passionate **student developer** fueled by curiosity and creativity, with a strong foundation in **web** and **mobile app development**.
-
-🎯 I enjoy turning complex problems into elegant, user-friendly solutions.
-
-💡 From academic work to personal projects, I’m constantly learning, building, and improving.
-
----
-
-## 🛠 Tech Stack & Skills
-
-| 💻 Category                | 🚀 Technologies & Skills                                      |
-|---------------------------|---------------------------------------------------------------|
-| **Web Development**       | Next.js, React, Tailwind CSS, Express.js, Node.js, MySQL      |
-| **Mobile Development**    | React Native, Expo, JavaScript-based frameworks               |
-| **UI / UX Design**        | Responsive Design, Wireframing, User-Centered Design          |
-| **Media & Deployment**    | Cloudinary, Git, GitHub Workflows, Vercel                     |
-| **Full-Stack Capabilities** | REST APIs, Backend Integration, Authentication, DB Systems  |
-
----
-
-## 📦 Projects & Systems I've Built
-
-- 🎓 **BISU Integrated System for Upskilling** – Platform to manage and track upskilling programs.
-- 🏠 **Boarding House Management System** – End-to-end solution for tenants and landlords.
-- 🎫 **Ticketing System** – Internal system for tracking support tickets efficiently.
-- 🌐 **Gendrugs Inc. Company Website** – Corporate website with responsive layout and CMS integration.
-- 🏫 **School Information Management System** – Platform for student data, academics, and payments.
-- 📶 **School Monitoring System** – Live activity and attendance tracking system.
-
----
-
-## 🧩 Services I Offer
-
-- 🌍 **Web Development** – Fast, secure, and scalable websites.
-- 📱 **Mobile App Development** – Engaging mobile experiences with smooth UX.
-- 🎨 **UI/UX Design** – Clean, modern, and user-friendly interface designs.
-- 🧠 **Software Engineering & Consulting** – Planning and developing custom digital solutions.
-
----
-
-## 📊 GitHub Highlights
-
+<!-- Header Section -->
+<h1 align="center">✨ Hey there! I’m <span style="color:#f39c12">Richmond C. Torreon</span> ✨</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regzmound&show_icons=true&count_private=true&theme=radical&cache_seconds=1" alt="Richmond's GitHub Stats" />
+  💻 <b>Computer Science Student</b> | Bohol Island State University – Clarin Campus <br/>
+  🌐 Web & Mobile Developer • UI/UX Enthusiast • Problem Solver
 </p>
 
 ---
 
-## 🌐 Portfolio
+<!-- About Me -->
+## 👨‍💻 About Me  
+I’m a passionate **student developer** with a love for creating **modern, user-focused digital solutions**.  
+I turn ideas into products that are **fast, functional, and visually stunning**.  
 
-🔗 Visit my personal website for more info and projects:  
-**[richmondtorreon.vercel.app](https://richmondtorreon.vercel.app/)**
+- 🚀 Exploring **Web & Mobile App Development**
+- 🎯 Focused on **UI/UX Excellence** & **User-Centered Design**
+- 📚 Always learning, building, and improving
+- 🤝 Open to collaborations & exciting projects
 
 ---
 
-<p align="center">✨ _“Always learning. Always building.”_ ✨</p>
+<!-- Tech Stack -->
+## 🛠 Tech Stack  
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+<!-- Projects -->
+## 📦 Featured Projects  
+
+| Project | Description |
+|---------|-------------|
+| 🎓 **BISU Integrated System for Upskilling** | Platform to manage and track upskilling programs. |
+| 🏠 **Boarding House Management System** | End-to-end solution for tenants and landlords. |
+| 🎫 **Ticketing System** | Internal platform for efficient ticket tracking. |
+| 🌐 **Gendrugs Inc. Website** | Corporate website with CMS integration. |
+| 🏫 **School Information Management System** | Student data, academics, and payment management. |
+| 📶 **School Monitoring System** | Real-time activity & attendance tracking. |
+
+---
+
+<!-- Services -->
+## 🧩 Services I Offer  
+- 🌍 **Web Development** – Modern, responsive, and scalable websites  
+- 📱 **Mobile App Development** – Smooth & engaging mobile experiences  
+- 🎨 **UI/UX Design** – Clean, modern, and user-friendly interfaces  
+- 🧠 **Software Consulting** – Tailored solutions for businesses  
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Highlights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=regzmound&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=regzmound&theme=radical" height="165" />
+</p>
+
+---
+
+<!-- Portfolio -->
+## 🌐 Portfolio  
+🔗 **[richmondtorreon.vercel.app](https://richmondtorreon.vercel.app/)**  
+
+---
+
+<p align="center">
+  <i>✨ "Always learning. Always building." ✨</i>
+</p>
