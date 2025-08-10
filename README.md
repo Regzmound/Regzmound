@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Regzmound/Regzmound/blob/main/9be0257d-6364-4bf5-817e-b4165187e570.jpg" width="100%" height="10%" />
+  <img src="472374328_1540861516632453_5076963917824371035_n.jpg" width="100%" height="10%" />
 </p>
 
 <!-- Header Section -->
