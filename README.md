@@ -43,6 +43,8 @@ I transform ideas into **fast, functional, and visually stunning products**.
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-03D1C1?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 </p>
 
 ### 🧠 **Machine Learning**
@@ -54,6 +56,7 @@ I transform ideas into **fast, functional, and visually stunning products**.
 ### 🖌 **UI/UX Design**
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
