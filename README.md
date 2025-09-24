@@ -35,6 +35,7 @@ I transform ideas into **fast, functional, and visually stunning products**.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### 📱 **Mobile Development**
@@ -44,7 +45,7 @@ I transform ideas into **fast, functional, and visually stunning products**.
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-### 🧠 **Machine Learning & Python**
+### 🧠 **Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-F44336?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,11 +54,6 @@ I transform ideas into **fast, functional, and visually stunning products**.
 ### 🖌 **UI/UX Design**
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-### 🔧 **Other Technologies**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
