@@ -13,13 +13,13 @@
 
 <!-- About Me -->
 ## 👨‍💻 About Me  
-I’m a passionate **student developer** with a love for creating **modern, user-focused digital solutions**.  
-I turn ideas into products that are **fast, functional, and visually stunning**.  
+I'm a passionate **student developer** with a keen interest in building **modern, user-centric digital solutions**.  
+I transform ideas into **fast, functional, and visually stunning products**.
 
-- 🚀 Exploring **Web & Mobile App Development**
-- 🎯 Focused on **UI/UX Excellence** & **User-Centered Design**
-- 📚 Always learning, building, and improving
-- 🤝 Open to collaborations & exciting projects
+- 🚀 Focused on **Web & Mobile App Development**
+- 🎯 Passionate about **UI/UX Excellence** & **User-Centered Design**
+- 📚 Constantly learning, building, and improving
+- 🤝 Open to collaborations & new opportunities
 
 ---
 
@@ -37,13 +37,14 @@ I turn ideas into products that are **fast, functional, and visually stunning**.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+---
 
 <!-- Services -->
 ## 🧩 Services I Offer  
-- 🌍 **Web Development** – Modern, responsive, and scalable websites  
-- 📱 **Mobile App Development** – Smooth & engaging mobile experiences  
-- 🎨 **UI/UX Design** – Clean, modern, and user-friendly interfaces  
-- 🧠 **Software Consulting** – Tailored solutions for businesses  
+- 🌍 **Web Development** – Crafting modern, responsive, and scalable websites  
+- 📱 **Mobile App Development** – Building seamless & engaging mobile experiences  
+- 🎨 **UI/UX Design** – Designing clean, user-friendly, and modern interfaces  
+- 🧠 **Software Consulting** – Providing tailored solutions for businesses
 
 ---
 
@@ -53,10 +54,6 @@ I turn ideas into products that are **fast, functional, and visually stunning**.
   <img src="https://github-readme-stats.vercel.app/api?username=regzmound&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=regzmound&theme=radical" height="165" />
 </p>
-
-
-
-
 
 ---
 
