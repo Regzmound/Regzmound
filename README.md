@@ -50,7 +50,8 @@ I transform ideas into **fast, functional, and visually stunning products**.
 ### 🧠 **Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-F44336?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F44336?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 ### 🖌 **UI/UX Design**
